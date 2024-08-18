@@ -2,10 +2,10 @@
 In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 ## Original data set is provided in the format of a csv 
-Reference Resources folder for ![crypt_market_data.csv]()
+Reference Resources folder for [crypt_market_data.csv](https://github.com/Kre8iveEnvy/CryptoClustering/blob/main/Resources/crypto_market_data.csv)
 
 ## Final IPYNB project file Crypto_Clustering.ipynb
-Reference main branch ![Crypto_Clustering.ipynb]()
+Reference main branch [Crypto_Clustering.ipynb](https://github.com/Kre8iveEnvy/CryptoClustering/blob/main/Crypto_Clustering.ipynb)
 - Jupyter notebook was the application used and contains the live code, equations, visualizations and narrative text using the Python extension. 
 - libraries and dependencies used
     -  import pandas as pd
